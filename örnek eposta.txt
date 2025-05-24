@@ -1,0 +1,42 @@
+Spam
+Konu: Hemen Şimdi 10.000₺ Kazan!
+İçerik: Tebrikler! Sadece bugün 10.000₺ ödül kazanma şansın var. Hemen buraya tıkla: bit.ly/hızlıpara
+
+Konu: Borçlarınız siliniyor!
+İçerik: Tüm kredi borçlarınızı %0 faizle kapatıyoruz. Başvuru için son 1 gün! Başvurmak için hemen yazın!
+
+Konu: Bilgisayarınıza virüs bulaştı!
+İçerik: Cihazınız risk altında. Temizlemek için bu bağlantıya tıklayın: cleanmydevice.xyz
+
+Konu: Kolay para kazanmanın yolu burada!
+İçerik: Evden çalışarak ayda 50.000 TL kazanabilirsiniz. Ücretsiz eğitim için kayıt olun!
+
+Konu: Netflix üyeliğiniz askıya alındı
+İçerik: Ödeme bilgileriniz güncel değil. Hesabınız kapanmadan önce buraya tıklayın ve bilgilerinizi güncelleyin.
+
+Ham
+
+Konu: Toplantı Saat Değişikliği
+İçerik: Merhaba, yarınki toplantı saat 15:00 yerine 13:30'da başlayacak. Uygun musun?
+
+Konu: Proje Sunumu Hazır
+İçerik: Selam, proje dosyasını Google Drive’a yükledim. İnceleyip geri dönüş yapabilir misin?
+
+Konu: Öğlen ne yiyelim?
+İçerik: Bugün dışarıdan bir şeyler söyleyelim mi? Ben pizza düşünüyorum, sen ne istersin?
+
+Konu: CV Güncelleme Hk.
+İçerik: Merhaba, CV’ni güncellediğinde bana da gönderir misin? Referans yazmam gerekecek.
+
+Konu: Dönem Sonu Değerlendirmesi
+İçerik: Bu dönemki çalışmaların için teşekkür ederim. Raporu en geç cuma günü paylaşacağım.
+
+Bu örnekleri eğitim setine dahil ederek veya modelini test ederek kullanabilirsin. İstersen CSV formatına da çevirebilirim.
+
+
+
+
+
+
+
+
