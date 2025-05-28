@@ -58,8 +58,8 @@ Model aşağıdaki metriklerle değerlendirilmiştir:
 
 1. Bu projeyi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/proje-adi.git
-cd proje-adi
+git clone https://github.com/muhametaliaslanhan/E-Posta-Spam-mi-Ham-mi.git
+cd E-Posta-Spam-mi-Ham-mi
 ```
 
 #  Gerekli kütüphaneleri indirin.
